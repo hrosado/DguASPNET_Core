@@ -1,2 +1,2 @@
-# DguASPNET_Core
+# Dgu ASP.NET_Core
 ASP.NET Core MVC
